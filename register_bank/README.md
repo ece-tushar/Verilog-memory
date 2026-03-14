@@ -9,4 +9,4 @@ An array of 32 registers each 32 bit wide are implemented here in verilog to dem
 
 Following is a block diagram shows the different ports and i/o lines, exact names theat have been used inside the code, along with their bit width. 
 
-
+![Block Diagram](block_diagram.png)
