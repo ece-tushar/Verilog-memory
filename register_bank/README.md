@@ -8,5 +8,6 @@ An array of 32 registers each 32 bit wide are implemented here in verilog to dem
 -Only one register can be used to write data at a time at the clock edge.   
 
 Following is a block diagram shows the different ports and i/o lines, exact names that have been used inside the code, along with their bit width. 
+[Code is from the NPTEL:Hardware modelling using verilog playlist on Youtube]
 
 ![Block Diagram](block_diagram.png)
